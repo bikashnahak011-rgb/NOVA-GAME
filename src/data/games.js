@@ -27,7 +27,7 @@ export const games = [
       recommended: ['Intel i5', '16 GB RAM', 'RTX 3070', '256 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/A4DRljL3YcUzm9Azgc_rl7VoaeWVCxbQWrl2TUj1xQU68wFS07XzarOLakQqlZ9sqod3_XpluA5RPzhBRF-YAtPcQcqf7tXajHSdS2pGJHu6qgX1h-c9jxw7a3vUp_u_MhYH24qOZZl_biQOjnpDtELOtCWFCiu8WjBF5lg7tlYSOAINPPa2gm9GCiffSv3JcytEukXULweq04-n1KLA4d30EyvioZmzomGfY5XiWI5WcdF2pDhqa-Kl5Q9wR69zr7s8hTy1S4_LJ_P-3C7xBXV2eKFYymkIagjb7A5dFKAIOtTwrYDDJnahG4ITATxIxzD6EPpnK4zndQ2wYbb3E6BedpbhwwGa1VOuCMeaD8I2u1DfWyGJ6ulqjNY7wA6s54_sU3etBpvuKcwOLd5VxQ?sig=gcVH7xpqK7zPtO3-hMJTTKBKYhqcgphQvhcTTc37HK4',
+      primary: 'https://tunnel5.dlproxy.uk/download/nGw5A-kxTG7-bukYw_8crDddpfL6RTC4kJ0I35srkMzLbStZKf7yxs8CLgUjUBdmbTWkJ2AFkqDEZ5ivoAYg8qwi8tpRMAygPDBKbXLQBe1omGbmGI9HBqEAZsBMrH6pU8OYkPq9O6dbe-bYVyyy6-Xgc7-2I4tvgzZWKuHyZPUwJOlvjkLiefRLEt1Ocbr3M5b-kVmDCxxzGbCj_zL6YKoSEN7WdTnrFtfrjMiocU4VmjrTLsI6CTER0YHiaKVrVSnjPHuvgXh_76zdTUanA107uLVa7Ys_ovQhhsEgpc7eqyRnuY9-5n4bZQz7aR_px1AQO8FiLUNczKes2ZCT4MclACFaEnpl6TCcq7MSgcCy5Jcr0GAUwtbXhgzCEcwtZEgOU4IqTcGTUanfSCuaew?sig=PaB7rFy89PvDZQCPZ6-Uv9ZJqrGPT4tYULSqcbTY7zw',
       mirror: 'https://example.com/mirror/nova-reign'
     },
     fileSize: '9.7 GB',
@@ -61,7 +61,7 @@ export const games = [
       recommended: ['Intel i7', '16 GB RAM', 'RTX 2070', '512 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/A4DRljL3YcUzm9Azgc_rlz6ilcBqF6WCdyIJ6JtgP5rmj960BROjdWvliLhL9WbWzgDXNGfJEQPG2emwOBldcT0mTO6SDZZibSCZvtv04PwF1GHAWM0Hed3O92m_fqQM8VCH7mLwa8BbCGVFNoAtHXsLTJjRH1Q08Udo4-dDRGx8CgSF4uEBvWlmuj46Ijs1-mxO4eLr_3ly-DN3vxrFGKIWbhdQrm9ggbr-sJnBsXHAMZf6lB2yFWJEprdGqBoWNtabwrWRwpGVymQwtJ7pO_h8Kep08_Fsh98gAxxfwvsnROkFYM-OXQIfQ5lvob3r_LbMZWEPznd172jXOqdvXPJybjN39QYWiE9VxEo_HILCgE8DshOiQ2n5ei2joszqyXnRMGrWGJBnsDZ52Ca4Zg?sig=d_0HYAwPX0RD2X4rox9uOFDYbIh8X4P6Y2sfpuB8JP8',
+      primary: 'https://tunnel5.dlproxy.uk/download/mWGCoFQhTJQrOoCpdTT2C2jI0PbmG7Ak7RIln1aYY_y4dlBrTjnh0kHvynb_gYfkM6U9nuPzQXNjVFzp0YKGSTaNHnrMKe0ZYYhPmNcsxQbeJEWbPP_uI0PfyDY3ZMQkYiC_ffTxxDr0NB9leeDYEKzF_DtEOBRAsOn96tVNALqUh_RFjH59qXPjTZ9DAugJGftNKwa2QUK4Zm_bq2khE4ZDBenOgN9ucRpUXklniW6f-rbkoXjf-1ZlbU3o8CWT0XvhezKnZ4M_brdsoD1D3eM3S4tUDOg7ZQJBC0db40FTl5ISYqbkbcb2r0YXwJUpDQoJ_hiSZpfozu9nvBxB17uWy16aiMBWdQhg4O7dNTPQbiJekW_C9id82nok0ywoYznA2HNb-j2ucPsZrQ1_4g?sig=gdWz6aAhb2rAUEwIpMUBYDmLxS9k4uwMVB2PEX2EKtY',
       mirror: 'https://example.com/mirror/ghost-circuit'
     },
     fileSize: ' 59.3 GB',
@@ -95,8 +95,8 @@ export const games = [
       recommended: ['Android 12', '6 GB RAM', '3.5 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/A4DRljL3YcUzm9Azgc_rlw8SEyDiLwGBvkUJzh3sAJup6R_9zHaHgiPTJ4OpzH8cQW43diN226TjWxYjkojgd_eHiZy-Xu8CP_zp10UUfG5rpwgoapsno5sIRh8I2EiYIOpAzh6_0D6ojHrfD7Ylm3J145VWcFatjH7AbU0r7SCGIVDaJIXj1mYqjAx-Nd1KG0dRSPBsWzCJWn7rRs6nXQtUZD4oTa5z3kBWnC9bSRYbWO9pUrZ54hOaZ08As7uhWCMOtNRaTG-rt_JPfJfhgHJ66JHFwEdhDtQ3z2bVO9kOLQpUsBBqPh4kx6EgkZKHd6R_1gu2OYt8B4T6t7hrQBJ8PEqiZWlzoTJXFxWHZ81jXxDurCQBkA30UnDD_tJ88WiIm33x71HcdzWlViIqtQ?sig=2AoVbH5PIt3aXxTBNM2jLKMjMNZBJADaXyfL8llJCuk',
-      mirror: 'https://tunnel5.dlproxy.uk/download/A4DRljL3YcUzm9Azgc_rlw8SEyDiLwGBvkUJzh3sAJup6R_9zHaHgiPTJ4OpzH8cQW43diN226TjWxYjkojgd_eHiZy-Xu8CP_zp10UUfG5rpwgoapsno5sIRh8I2EiYIOpAzh6_0D6ojHrfD7Ylm3J145VWcFatjH7AbU0r7SCGIVDaJIXj1mYqjAx-Nd1KG0dRSPBsWzCJWn7rRs6nXQtUZD4oTa5z3kBWnC9bSRYbWO9pUrZ54hOaZ08As7uhWCMOtNRaTG-rt_JPfJfhgHJ66JHFwEdhDtQ3z2bVO9kOLQpUsBBqPh4kx6EgkZKHd6R_1gu2OYt8B4T6t7hrQBJ8PEqiZWlzoTJXFxWHZ81jXxDurCQBkA30UnDD_tJ88WiIm33x71HcdzWlViIqtQ?sig=2AoVbH5PIt3aXxTBNM2jLKMjMNZBJADaXyfL8llJCuk'
+      primary: 'https://tunnel5.dlproxy.uk/download/WNRfflV40f4PRU6B1Rn1YchmCzzp9Opb2KfTKR7mPCDIxyMZzoyuTm6rDyxfia6qojaS6FvBzi79Vhz3dv_qcomlLOao_3jB-E5R76u8dmUwgF-97QVIX0TG-5yIIePBatWDBzUqo7bXWqn9uJ9krTbVrfy3lT0dtaTOKUFw5u9kkbRDHeSIsP95-uX_2vk0IH-fO9vX53R_xkG1-dZfw7ObmUlZgm_JiamZqqag05tS6eBmFu7UgEmz32YASLzIk-XA7DsM78p2BtpunhEexsBJ_EO18lPrxSWppRZ7Al9oVTT4YpwYNL51YflGnbwKyZg3vOme_3gCt55v_qI14WC10LL3BbwG9QGLJH9XE4ziMdZ0FX8yjoFd9jziZ02ql062P3KpyQF8_oF-R9nxSw?sig=Q2s7PARsS9GlGEeX980LSOuyEf9xkRShopIbNU7OoFA',
+      mirror: 'https://example.com/mirror/echoes-abyss'
     },
     fileSize: '34.4 GB',
     platform: 'PC',
@@ -163,7 +163,7 @@ export const games = [
       recommended: ['Intel i7 / Ryzen 7 Core', '24 GB RAM', 'RTX 6800', '512 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/VTN4q5w38fB7mI2HpCxs0KVFKNiyYfsIjMLSSrR9t1cjSine9povtUhKWtJMT5zyz6S6P8YRJwJbo45E0zy8-DnF415WGOK_pwFoKI_t5xsOsmXDxb5Wdiauf0aS4W6WoWEAKOGM0ugIp6zMsB8M6pKg7Mxk7cDD_rKRJxwpdN024zGpOV77uJZ5m7yqeWg7domcxyHxUvTut-4ffgY4KB6S90OZViv0QOBzRpMcU5vsBOhZESPj0aoHOYaImYnZ74aHrjniSQYYfXEkBnqBgLUMhDI7rzlqWe8-Al1sizVcNb8SCYDaP1OObBgJXaR6WogIlSAZuFwOydiNSqZV_J4sqRUKKNVs0WqE2s6GQmqJq4mUFRrCIOWfWylSAigfXXPijqBLbSLjUscnQk495Q?sig=DU0c907qPcAmukEIgl3thfw5NsTczR_xQ6QKA5kpfVI',
+      primary: 'https://tunnel5.dlproxy.uk/download/dBMxAJ5huV1623hh7fy0BJ7XtQ9pdnGO9Jw7jiuCRtg00IYH8VBINTETLkRIiEDwDnyihGxuLmKYLMrLyk21iJkNiE0qLBR0KyoYYFchMkGPofJdonDPMbTnZTVpfV5D1EJGcPgH73xLyooXaA8si_NWEMAenk3PwacB8GNgHXqcI5uSHIumbE3RYiZkFvtX0T2PBgQgfjOzNpwhJj4dT5z_jwsG_F0Auc8EDDcxga_fV1ZkkcgCt8nPtUPxnVhyr4tpAGI5L3NSCTkJ14l_4I0b5B2D8kbxiLV4TxluQeuVUKeMXKoQ9xkmtdEErfHNrzVZjrsZ-yxso5TLh0YdhSwTmb_Wy_YvGr_ymGsa6ey5ZTjsCbQkodo5m2sNEuuoAdgXSkp--Bpmk09S7Kvmug?sig=Sxar2z1nceUSv6TE5H_aLURNiwjNKe54nqnKbTTHGdY',
       mirror: 'https://example.com/mirror/echoes-abyss'
     },
     fileSize: '12.1 GB',
@@ -197,7 +197,7 @@ export const games = [
       recommended: ['Intel i5 / Ryzen 5', '16 GB RAM', 'RTX 3060', '1000 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/EjMR7gwft1BtUetGh9Xue-J3uXSYVjJR8-5lfzv3NyjQTvqDxHmT5BCKVh8tVLwbBg8RqsC6RCxN_XnanKVUpIRh5olic1nQcRVkMxy-wmix0S_dEJsJM_R1FCosbhggsu2SNmmHSa5ylUsTKGuYeVcsWiBJbR2EmbmUoTcZopZSlQpEMkiZu9FoUySusq-OPnXbHYfkS-lZO-z2DhghdvO9LV13Lczmdi_u4lUcIr_qOTJluQztyBgWyRnLq_KtQRMDtFFwf7AnxGOh37AnBicvVRgRIRwueyzQ89fsHoWXclHtjU1p4n23WFaqYELWREHrXBQsbY1j8SrAIWGfPDqGihJ5NEFhaoSZ6XveIpkeuRAE0Sj8VqFdMevGZgOVZhPmLjpGaNYD9fkpzMQh-Q?sig=ET5XMV7ToiFA1fmx1O6dt0wj8TYnIxnVfVXgZWgwf9o',
+      primary: 'https://tunnel5.dlproxy.uk/download/A4DRljL3YcUzm9Azgc_rl8qLFG_qinuyFDlrSpx8KdoP7AScINsKkfRt82OnQpX4FmIDpSjC2EMsFzF-KlDL72IW2wn5JGCJZulAfDXb5wwQb9bY1QqmLjhcrxIPl3Pba_6vYUiPYEskgFAbnc50dwUaMTtaAWVBgV1wsWcWPvqU309sHiJzjc-Nop5kWsuYm9hVo26ui4wG0pbM60DzKWzoHhKv9bpLCe6c2V0OtTS9-KxNYCIN8m1g_LwyWPcH2oeJ7gdb6DZPUhSJvECM_bnsj3jcytL9Gv3bl595ZKSSgvWr8pLIud_qofwPSUuEUzA6X8KgccJoJ4RkU7XI1mGeT-sherekIAuH_0qfPazsKiqgq-UP9tmjp8o9P3AkBp5jhJ-kqQ6C6WO3V6PRSA?sig=PIjfqEQUVLqsnttv7NWK7ukHae4h3lN67FOw_DfiqmI',
       mirror: 'https://example.com/mirror/velocity-extreme'
     },
     fileSize: '148.3 GB',
@@ -231,7 +231,7 @@ export const games = [
       recommended: ['Intel i5', '16 GB RAM', 'RTX 2070', '256 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/7SZzNbMa9tEkWtI2Sqvq2_L1_wn-wcf2YtkQlWinme9Ck_Y0NrEbQowK5aTFvm_frQNBkGdthFRPjJGRNAavBc0iy9RintruekfEviHOEXp_ywIKc5eIjxBKDtoZVHlrKtLNCEUKOh_7bFdeukl-9vhTT5pVBqelI1EIZmD9CpvUIFZ5_CnHXLGsb7gqCb62jJd3RjxPBNxCE3-0caia4hJTU8i955lPK13Tm5E14a5smgsDYlUnzOXSEPviAcgNEJcuDOHiXOJoYG5SQL93kTX1BRWVBEYMZh6a1dD57ufelYlU97t9i8yZv5KLh6o1tYzdJUhEWMI3xQEfTgvaiqI6x1R7_895c2OgeMDBULa1gAMi2KLEVPgl7ytwi3EqHxfS-SE_PUyXmx3bckFcSH1qPReU-hMey3TCXuOVlvE?sig=n8TzRBNkG5QYfIy-tPDB3vxV-Jg_BFFlka22QVNzoWg',
+      primary: 'https://tunnel5.dlproxy.uk/download/VTN4q5w38fB7mI2HpCxs0KVFKNiyYfsIjMLSSrR9t1cjSine9povtUhKWtJMT5zyz6S6P8YRJwJbo45E0zy8-JwcKrs5N4j-3sJDdwvYqfDjcB2Wadck5JaUdHXQwg-hEwisvdnFOApBKwrpSRr5RnwqZo7m62nkZ2dTVGokr6Sal_5NZe31FiX8OcZRcK-esz36iv467K8-b_t7F7qe9qw36xNyJspNdD-qnRnfB6JLSUXVZBppf2rSQV_P2pFdMnRRcxt3FMYeJAVozSprFoaZz-SuxhsSPd-DGSmC7KDGz__ylndytKE8Xs3UkHps3kXpU2VEZOvRi4ZGqJ3JZhAbI8Ttcun17iD5ZKFYgWKEhxERBycI-UlPUWZU47l151XUauCpAG2c_NH35DBQnCzfr58QQTMXpd4hLhB3-Eo?sig=IDEPbr59cNcdxlUIitMCjWByHmAuljL5akQT07pZv6k',
       mirror: 'https://example.com/mirror/realm-conquest'
     },
     fileSize: '6.4 GB',
@@ -265,7 +265,7 @@ export const games = [
       recommended: ['Intel i5', '16 GB RAM', 'RTX 2070', '22 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/nGw5A-kxTG7-bukYw_8crA2z8_JfjOzRoVdE6drSDSsOdXtipzvUiaFZFUSkv5TTlfAtxu7ghl6oePYalpJZd2q9OSdWCbOj3UbAGqOdQoq_ceJduEG8c3V6qX7_3mnZmc1Oy9W_zmMQ-2-2khbrUoT1QVS5Zx81Uo6Q_PuN7Dz6Lg9Tkkh5Lf3Yppo09e7Blax7pw4wFJUnq3ExIMNoZ77xZFRbyLaIZN1d49d6Ja__MURNoMceyXpnn_cSJgjdtNrXYdYX9wM0DcaHvnUD-KDYrD2vGzANSFIUOEerqXE9Yo98hm-OzCwWqLQaTpK4KkvIEBp7-tJbWVBPLG0BXgYbP6fFRMTtLoQjAxiQawDD0-pzvgGzdsLyf6syKDtmmtF6-YJoJ2x3TSi702vWDvUcCavSBN21qpa2J1oNMF0?sig=RCmvmpP1sTr6cb5jn3AcBblFt8Cmnj8E3D7imUJcZgk',
+      primary: 'https://tunnel5.dlproxy.uk/download/nGw5A-kxTG7-bukYw_8crA2z8_JfjOzRoVdE6drSDSu-XPogBaZBsS5jPoEkf5odVUxOMkHe9maDnS4EHAUhjkvzEACpnrr1jznI33wzuCVUjo9RBP-k2xjppsh66yFEktJ7d57lqh9omfKgGPZegTTS-EtVpO_8cSK8h3-omDDJBCDLx0Wum1nImwtnFxS5r99V70PODpSwsWQKkDcOSBs2Zc2SByF6Sz1mxvVakxOwR-jjxIHNmbvDEb9rUaIGbCs54SgPVmDyflb5ugn7chiQinU4TS_JCSSITALW2La-524i1GPBCGETVLZARJ_FYwK0Zrs6Q6U1WppehuxPUWT8VFAfpAbkc9Bl5n1gys8hc33MGYox3aUrgMY7ruPiaZmkGI_68_tgU-23B7OO3d4S_SX9uo8Z_3R_G3SyffU?sig=6r2QXwY9-ILgae1TzCRpGWtfW1f-Ycrm-FdcOyyikpw',
       mirror: 'https://example.com/mirror/survival-dawn'
     },
     fileSize: '20 GB',
@@ -299,7 +299,7 @@ export const games = [
       recommended: ['Intel i5', '12 GB RAM', 'RTX 2060', '3 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/ia-tyO-Un9MVt3bwEQww8dHNPp8z1G5fkiC-RctX9X9MYWWHbFv_Ugm225r3MkR6dqpudHvmyQDtC7D7sROyCErULPxU04uddGZMbnj9bVgHFsagWJ69FcYjZAz5BqeSUqteuuVx6_o8HgFqXOYTjjMF84A_xnokrUiPsE-m7IrEdIm79in8bpQaZan6XFHTPEE5NuQc41babmJpFY4S6ujukkDEgksKGYWSBAYmS3DH46Az53CMKQm6FU-LehYoUOV5WsG34t8fPI2jvLiDkipUDlLZBVYB-JswWz30XOGj_Ih2irMYQAxsa8eqLOMENHh3glhDgwEg5gua-2i4tKwuDhMu_0pWIeFr0S3CEgGzBYIpFphExvL50ff13B57tY0sQ9GUSaRGjMXHkMZgPA?sig=jdBZvf1E0Bya1tjKP__2hJWQy7LZjHouoDxWVh-ftEE',
+      primary: 'https://tunnel5.dlproxy.uk/download/2hE8h3JTtMFS7LK4INTa7N56E5ulpsqacvrO4ZC0KT1DNKia5dRcuH4Z2aKyRmOn4Kzz_oWeSiUIifNs3cnKMhPqwLq_peuFSDKERej4at4HPh-1uhLSv8y-NE9KiDgZk0nOaQi9AJ3mVxaCn4g7drwXRr-oK1LxIHJKrld5FB4wNsmGkWoxcBzjQT0TyVIo60xsuwIavWa_UJKjwbE1heVBz-WRL37cpW7Sro1OQKeBMZ-b8HA2XIgsWNXGokkwb8lNErZi67CY4rY8PnLYore9X2DBOWv8aatP649JbePJl_sZuO49slYl_ZGWcKDiecW6cAuSjA8ddSAdWaFH9WKt-FgUXm4ZhMOoY6z02xvnCNskCaHYNmu9roKiqmR-4l3cCi7MllBO22nhFul8cw?sig=3SlRQi5a3trr_KW3hMeuhl-d7bXwKuYEkXNz60zeXus',
       mirror: 'https://example.com/mirror/champions-league'
     },
     fileSize: '2.5 GB',
@@ -333,7 +333,7 @@ export const games = [
       recommended: ['Intel i5', '16 GB RAM', 'RTX 3070', '4.5 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/naZPLHCL-fNAqwmCnZAA_C0wlBO4diO4uN63wNgptm8l4OhPckY7yZxMXpn5xvvwVjnQZHuTy83OGTezGzDGSpfaTn49h6w4GfYSz3eDS0y7-RsfPpwNilFYoo6D4dJEAsPvDw_MbLkxeCaWTyA9a4CzlSj4MBOStYyw71STIz7iyJFrlseiN4SVyNanTJ6KbwuzAI3bxzMso-AS0EIdi_ES6A0WYqHWotrF5B_lzzBtp-K55e5VWkdijuJaFuA4ZQrMV7YQqUiJzCSijfgrcNSnBE71w4hgdcqDbs4Du3VtYrMZl0tQUuIlS1gj2R_5CYAu50A8EocyrwCWnOX7WA?sig=btQwpNdXzHBsJP8FIlCgFjRHW0Llnz1Zuwaj-fuA2TQ',
+      primary: 'https://tunnel5.dlproxy.uk/download/nGw5A-kxTG7-bukYw_8crKqN9K15KTtl78XkY5gXh6fOKpMH2hNJ8JOFYkfq25FHdTjnWs7lHG8a2qOOGarlZUvEyPRlieEpjAvt5ziSsQW3mhI3bMbQ3lRvLein-lwfMVwCTitRHvlQtSoPj1Ix7JC-nzy8aQZU-AV6scHToc2E06LpoSeAkY6waLFxHBs9qErv7tuFlNEJiFOirnHaGzbzJqZkSKkqT6aQpIIJOhbBmAF7lMqiZf6d1Hf59jjIE6I6lPfsWcRpLeeJ-hU6lMpH-DWks4lbtC1SQRn7lWlnY1Q3kVmfLQWoqlH2z5vkVTPZsNmFck1KgIeVtXoEWA?sig=Ne8T8QoEwL--93KuQvkrfO0MsE6MUwzGH7q_5JsDiZ4',
       mirror: 'https://example.com/mirror/starforge-odyssey'
     },
     fileSize: '4.1 GB',
@@ -366,7 +366,7 @@ export const games = [
       recommended: ['Intel i7', '16 GB RAM', 'RTX 4070', '10 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/7ySn3AwM6wnokkk5K9Nz9Clyul329OgDip3HqjatFl7xcuw1CSCwLrXhLN8thuWFg0YtNnXnwqQr3Gg9CXzm10DIVVs-jg8mydW04zdKiYeu6odyqu-K0dO6J9SYE8M58rYtpWNPuwRYA02TYrt-a_k5OVjjsPaRvv3hsdNz3lmn0r2Wytd1vg9VjXGI42bad74EzBWlYXEHu6iY8DsVgITck7SBSLrWmEAf_dG8NIXphWGW8A2LL_b_7XJHMTePHfIyo5OJE7UUEacRv5knW63o3x-xWMUMtacCvbRSr4NGsbOjARmaRg4Mx-2F1vRItrsk9whFA1ZrnkODwIXOsku8MbmFOcU3R6NZIMsQ_UmP6ZinZFGSM36J7NWXsf57vk3OMTot09XtQT4QPXSAojrxiM7RkNEf1_PSSIDXhmk?sig=zbnDXudLOW6mzHaAec1k2a-7xTG8Mwo3koljRSUb8YE',
+      primary: 'https://tunnel5.dlproxy.uk/download/nGw5A-kxTG7-bukYw_8crLph_J9O1OacZAZXO49bY34xPtEVCoTxpgFzq0Dx_oG1eOVymK_8Co1-8LD2jOEskU6CBBy6jy2yHFyl6i5YwCrQjO8L8xlOpNTCNax5y3m6Nzgxo5cneEywO-EeJgUf0V0EiIgmKppFo5pVBabbMxQQU9SGPlQLL6af9-wXZ2zprlzHefwS6tfpB7xCuCb_USIEIU7l48Lxvht2c-cmuNtVLljxMvJhIplWWoWS_ytId85K8p8ugUACYkkVkWUQIoWU8LOSxuZX4F5zEDbkFdd_rqvUNCH-ObXjImyPOtEwgt-pZP3Ym7Em93wr6_bOlu48xriWmcfWtkIqx5BcZXEV86ZwNaswkZ8NJwCAZii1I1XnO3X1qsrr04kiAbuU3hxajirIEqmkRoG2vd8gM5A?sig=wBNZN1SzgYiIQrz4XSWRJMjLwQh0d2RtEfg3Aoahs1w',
       mirror: 'https://example.com/mirror/neon-nights'
     },
     fileSize: '8.4 GB',
@@ -400,7 +400,7 @@ export const games = [
       recommended: ['Intel i7', '24 GB RAM', 'RTX 3050', '70 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/7t3KmcnUwZDS6MPgXkMnGVdTLXcEjBHEjMTXO_XmRZ54N_IKSLTHXAiH5Grp-8sKTduZpKzupqc0uDGE2L_t87kqEqn4V38sXbEm-XVuyuio-akSs6UKDCIhPK9rgQJJHF9EV57xvHFY7eQ_PYpocLqZfyl4_0eh_FLfwreKSLeEEEHh4Rwgq6BBl-b6DF863GcPcOjPfkGY4pxCsVRunYnJONUKERd2UXnt4fK4u7m6rbsPttG5x-kqBK32PUHyYG_bJZwXVL6ufHIclOlHgWXZf90tEc5K7nKGYSRHifuHpJR5myqgteF653KrAEqDAGI89SK9fd2-jlEGi8dLb8oXbzK5GCZ4yh0_I2-f5OUJB2QxlecRs_Bhy8kC27wDF0NVJOfOkoOCiK-ROCdS6w?sig=No3zfSEg4LJ9SkiJg1itPH2p9gymr6IBXFNj1ZBkp6g',
+      primary: 'https://tunnel5.dlproxy.uk/download/CyQUAY30fqzj8MUP7lV4qR_92ZUQVdgbeFtfhI1yFBjwB4wiv2eoaCkIafO8CF7xxtnQ0IRKWU4er0ordPk3tAtHz0ctdn_0fziCWNEJX-Dz9jeAcifIbzGCX95F-_B6zSk6XTr9f_F3U6cPgdqTT1hNKPxTCPDaOlq0dfOL2_n4de4Mfat-9xpBs-gouSQccXRt2KUoU16pYIZp0shKqRe2bFFwCTV9c6hiH8ZV9NkCV1p9eRrY3PMrIwRcALbOjHsMR3j3EAgAqDFop1Lr-N1Og1SUEtIipPc5nwiez7jU3CnBgDYVbaCZtWiLInswo6rRQPTifZJUprXE9aT5XbnDK6whfKrviCTAHfKzPBiGhRBUJCHvVDEalkvDaJOExD17tSyZSq4z1-H8BOjipw?sig=cVuiZRQjPZot1AlcQCzn73xDtOxS98YKpgiT3UuwK0M',
       mirror: 'https://example.com/mirror/ancient-mysteries'
     },
     fileSize: '36.3 GB',
