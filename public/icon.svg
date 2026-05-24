@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <circle cx="256" cy="256" r="256" fill="#0a0408"/>
+
+  <!-- Cloak body -->
+  <ellipse cx="256" cy="320" rx="135" ry="155" fill="#c8b89a"/>
+  <!-- Hood -->
+  <ellipse cx="256" cy="195" rx="108" ry="118" fill="#d4c4a8"/>
+  <!-- Hood shadow/face area -->
+  <ellipse cx="256" cy="192" rx="70" ry="78" fill="#0d0608"/>
+
+  <!-- X left eye -->
+  <line x1="220" y1="178" x2="238" y2="196" stroke="#00d4ff" stroke-width="8" stroke-linecap="round"/>
+  <line x1="238" y1="178" x2="220" y2="196" stroke="#00d4ff" stroke-width="8" stroke-linecap="round"/>
+  <!-- O right eye -->
+  <circle cx="278" cy="187" r="14" fill="none" stroke="#00d4ff" stroke-width="8"/>
+
+  <!-- Cloak folds -->
+  <path d="M121 295 Q95 380 128 440 Q178 468 218 455 L198 315 Z" fill="#b8a888"/>
+  <path d="M391 295 Q417 380 384 440 Q334 468 294 455 L314 315 Z" fill="#b8a888"/>
+  <path d="M198 315 Q256 348 314 315 L322 455 Q256 478 190 455 Z" fill="#c8b89a"/>
+
+  <!-- Right arm -->
+  <path d="M325 325 Q395 298 428 342 Q445 372 412 392 Q378 405 348 382 Z" fill="#c8b89a"/>
+  <!-- Fingers -->
+  <path d="M402 358 Q424 346 428 363 Q422 378 406 372 Z" fill="#b8a878"/>
+  <path d="M410 372 Q433 365 434 382 Q427 394 412 387 Z" fill="#b8a878"/>
+  <path d="M412 386 Q430 384 429 400 Q421 410 409 401 Z" fill="#b8a878"/>
+
+  <!-- Flame glow -->
+  <ellipse cx="392" cy="368" rx="48" ry="48" fill="rgba(0,180,255,0.18)"/>
+  <ellipse cx="392" cy="355" rx="32" ry="22" fill="rgba(0,200,255,0.22)"/>
+
+  <!-- Flame tongues -->
+  <path d="M368 350 Q362 328 374 314 Q377 332 386 340 Q374 337 368 350 Z" fill="#00aaff" opacity="0.92"/>
+  <path d="M383 343 Q380 320 393 307 Q394 326 404 335 Q390 331 383 343 Z" fill="#00ccff" opacity="0.88"/>
+  <path d="M399 346 Q399 326 411 315 Q411 332 420 341 Q406 337 399 346 Z" fill="#00aaff" opacity="0.82"/>
+  <path d="M414 352 Q418 334 428 324 Q426 341 433 351 Q421 347 414 352 Z" fill="#44ddff" opacity="0.76"/>
+
+  <!-- Gamepad -->
+  <rect x="352" y="350" width="76" height="50" rx="15" fill="#1a8fd1"/>
+  <rect x="355" y="353" width="70" height="44" rx="13" fill="#1e9fe8"/>
+  <!-- D-pad -->
+  <rect x="364" y="368" width="6" height="16" rx="2" fill="#0a5a8a"/>
+  <rect x="360" y="372" width="14" height="6" rx="2" fill="#0a5a8a"/>
+  <!-- Buttons -->
+  <circle cx="408" cy="367" r="4.5" fill="#0a5a8a"/>
+  <circle cx="417" cy="374" r="4.5" fill="#0a5a8a"/>
+  <circle cx="408" cy="381" r="4.5" fill="#0a5a8a"/>
+  <circle cx="399" cy="374" r="4.5" fill="#0a5a8a"/>
+  <!-- Center -->
+  <rect x="385" y="369" width="8" height="5" rx="2" fill="#0a5a8a"/>
+  <rect x="389" y="374" width="8" height="5" rx="2" fill="#0a5a8a"/>
+
+  <!-- Hood rim glow -->
+  <ellipse cx="256" cy="195" rx="109" ry="119" fill="none" stroke="rgba(0,180,255,0.18)" stroke-width="3"/>
+</svg>
