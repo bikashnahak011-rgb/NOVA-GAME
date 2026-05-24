@@ -129,7 +129,7 @@ export const games = [
       recommended: ['Intel i7', '16 GB RAM', 'RTX 6550 X', '512 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/CyQUAY30fqzj8MUP7lV4qR_92ZUQVdgbeFtfhI1yFBjwB4wiv2eoaCkIafO8CF7xxtnQ0IRKWU4er0ordPk3tIVWc7d4uUbidSh_qmIy4KSfNS5PC4mvWgrLkJDPZJcCD7IV3biS-pPnTlquleY5VDHp5JWQajJbNKtkuSK-K8zUPnDCXB6ic6ylaO_zJl8YKS84rTk1grWKl1nFsfN_E5pDf61LE_xPsyNGlsppdygxobtYf2GKWDra0DJvaG6Zk8BLPDIrlelvgZNnVXP8-kI9Us9endqTjQTUMGR-rZ8SZsVRpeSdBYeQpOVI04B43Xtd8_OQJwnf36_pyAOOvQKXJXpHxV6KH4pVqcy1Spl5gui4q5e63cvfaIZ0SRMyDPN6IVs4ajEe2tZike3TRdmJnyrC6gMZmqdGKsvwtSvIOcpF4g5_m6VhNUyc80EQ?sig=w0dXOmcVlmQvMh-aoxOrp4l7X7ElJvxIQhCqcjFQels',
+      primary: 'https://tunnel5.dlproxy.uk/download/A4DRljL3YcUzm9Azgc_rlyxxikDw4SCMI-B_FLeve-Mnwkkkd8XR_2SBAE51RYqaWvzpOQNu1tqmLO_dAYdAwD5xkWsiw8FsGMfI8eyV-VjQ7InqcxnfS1so0DQ8s5NHPrge5tokGydI32NWO5Yo6yG6oN7emKuVn3JPS3oWR6vt98t61p67EnESdN_Lzs4ugegkDF9qhO7ESPkteMK3iD96anTw8rKFZIi8fODkORsJGPkMuZqzy-vo3pWAnkjufDATEhQg2K68Mo9Dr4HiCEKmTrA2B_QDZq6lKASA9qTa3-ZhUyPgmRZbu8prTN7JShxeQnoRXd56tad-nvu8AypTWb03L0aN4L_bnfuhQlwNcrIL0IVrZMCCBqO8qZt9Dc2acaePuCGoJ-NGvAEmvA-g4fpKUaptcLt2RS9OkSeo8c9Rq1R09hT4nwQgeISv?sig=erGmwyZWkhio-OiTWmqqqSDF1selAnRhjdKkDLteZc0',
       mirror: 'https://example.com/mirror/lego-batman-legacy-of-the-dark-knight'
     },
     fileSize: '37.97 GB',
