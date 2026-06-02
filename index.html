@@ -2,6 +2,21 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <script>
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+        // Handle ?p= param from 404.html
+        var p = window.location.search.slice(1);
+        if (p && p.startsWith('p=')) {
+          var decoded = decodeURIComponent(p.slice(2));
+          history.replaceState(null, null, decoded);
+        }
+      })();
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="NOVA GAMES is a futuristic game download portal with curated PC and mobile titles, external links, guides, and immersive presentation." />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
