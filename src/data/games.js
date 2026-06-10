@@ -12,6 +12,7 @@ export const games = [
   {
     id: 'Invincible VS',
     title: 'Invincible VS',
+    price: 1999,
     cover: 'https://i.pinimg.com/1200x/58/21/62/582162091b4cfc570489c1c062d40b3f.jpg',
     screenshotUrls: [
       'https://ankergames.net/uploads/screenshots/04-2026/invincible-vs-screenshot-4_lkkV8D_1777570775.webp',

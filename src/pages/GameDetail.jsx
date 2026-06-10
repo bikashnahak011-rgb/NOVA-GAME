@@ -224,6 +224,17 @@ function GameDetail() {
               {isFavorite ? '★ FAVORITED' : '☆ ADD FAVORITE'}
             </button>
           </div>
+          {game.price && (
+            <div className="buy-game-section">
+              <div className="buy-header">
+                <span className="price-label">Premium Version</span>
+                <strong className="price-amount">₹ {game.price}</strong>
+              </div>
+              <button type="button" className="button primary buy-button">
+                💳 BUY THE GAME
+              </button>
+            </div>
+          )}
           {!user && (
             <p className="auth-tip-detail">
               * <Link to="/login">Sign in</Link> to establish connection, gain XP, and save titles.

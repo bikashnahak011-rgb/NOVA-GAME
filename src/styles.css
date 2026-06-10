@@ -1468,6 +1468,58 @@ select option {
   margin-top: var(--space-md);
 }
 
+.buy-game-section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+  padding: var(--space-lg);
+  background: linear-gradient(135deg, rgba(255, 71, 87, 0.08), rgba(255, 165, 2, 0.05));
+  border: 1px solid rgba(255, 71, 87, 0.25);
+  border-radius: var(--radius-lg);
+  margin-top: var(--space-md);
+}
+
+.buy-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.price-label {
+  font-size: 0.9rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
+.price-amount {
+  font-size: 1.75rem;
+  color: var(--primary-light);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.buy-button {
+  width: 100%;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  border: none;
+  transition: all var(--transition-normal);
+}
+
+.buy-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 32px rgba(255, 71, 87, 0.3);
+  background: linear-gradient(135deg, var(--primary-light), var(--secondary-light));
+}
+
+.buy-button:active {
+  transform: translateY(0);
+}
+
 .detail-panels {
   display: grid;
   gap: var(--space-md);
@@ -2161,6 +2213,109 @@ select option {
     width: 100%;
   }
 
+  /* Game Detail - summary section responsive */
+  .detail-summary {
+    padding: var(--space-md) var(--space-lg);
+    gap: var(--space-sm);
+    margin: 0;
+  }
+
+  .summary-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-xs);
+    padding: var(--space-sm) 0;
+    overflow: hidden;
+  }
+
+  .summary-row span {
+    font-size: 0.85rem;
+    color: var(--muted-secondary);
+    word-break: break-word;
+  }
+
+  .summary-row strong {
+    word-break: break-word;
+    max-width: 100%;
+    font-size: 0.95rem;
+    overflow-wrap: break-word;
+  }
+
+  .action-group {
+    flex-direction: column;
+    gap: var(--space-sm);
+    width: 100%;
+  }
+
+  .action-group .button {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .buy-game-section {
+    padding: var(--space-lg);
+    gap: var(--space-md);
+  }
+
+  .buy-header {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .price-label {
+    font-size: 0.85rem;
+  }
+
+  .price-amount {
+    font-size: 1.5rem;
+  }
+
+  .buy-button {
+    width: 100%;
+    font-size: 0.95rem;
+    padding: 1rem var(--space-lg);
+  }
+
+  .detail-panels {
+    padding: 0;
+    margin: 0;
+  }
+
+  .panel-card {
+    padding: var(--space-md) var(--space-lg);
+    margin: 0;
+  }
+
+  .panel-card h2 {
+    margin-bottom: var(--space-md);
+  }
+
+  .panel-card ul {
+    padding-left: var(--space-lg);
+  }
+
+  .panel-card li {
+    word-break: break-word;
+  }
+
+  .gallery-grid {
+    gap: var(--space-md);
+    padding: 0;
+  }
+
+  .gallery-grid img {
+    border-radius: var(--radius-lg);
+  }
+
+  .trailer-card {
+    padding: var(--space-md) var(--space-lg);
+  }
+
+  .trailer-card iframe {
+    border-radius: var(--radius-lg);
+  }
+
   /* Search panel */
   .search-panel {
     grid-template-columns: 1fr;
@@ -2389,6 +2544,56 @@ select option {
   /* Detail page */
   .detail-cover {
     min-height: 240px;
+  }
+
+  .detail-summary {
+    padding: var(--space-md) var(--space-lg);
+  }
+
+  .summary-row {
+    overflow: hidden;
+  }
+
+  .summary-row span {
+    font-size: 0.8rem;
+  }
+
+  .summary-row strong {
+    font-size: 0.9rem;
+    word-break: break-word;
+  }
+
+  .buy-game-section {
+    padding: var(--space-lg);
+  }
+
+  .buy-header {
+    flex-direction: row;
+  }
+
+  .price-label {
+    font-size: 0.8rem;
+  }
+
+  .price-amount {
+    font-size: 1.35rem;
+  }
+
+  .buy-button {
+    font-size: 0.9rem;
+    padding: 0.9rem var(--space-md);
+  }
+
+  .panel-card {
+    padding: var(--space-md) var(--space-lg);
+  }
+
+  .panel-card ul {
+    padding-left: var(--space-lg);
+  }
+
+  .trailer-card {
+    padding: var(--space-md) var(--space-lg);
   }
 
   /* Footer links wrap nicely */
