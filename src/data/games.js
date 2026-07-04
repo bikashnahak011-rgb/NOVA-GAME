@@ -62,7 +62,7 @@ export const games = [
       recommended: ['Intel i7', '16 GB RAM', 'RTX 2070', '512 GB storage']
     },
     downloadLinks: {
-      primary: 'https://tunnel5.dlproxy.uk/download/mWGCoFQhTJQrOoCpdTT2C2jI0PbmG7Ak7RIln1aYY_y4dlBrTjnh0kHvynb_gYfkM6U9nuPzQXNjVFzp0YKGSTaNHnrMKe0ZYYhPmNcsxQbeJEWbPP_uI0PfyDY3ZMQkYiC_ffTxxDr0NB9leeDYEKzF_DtEOBRAsOn96tVNALqUh_RFjH59qXPjTZ9DAugJGftNKwa2QUK4Zm_bq2khE4ZDBenOgN9ucRpUXklniW6f-rbkoXjf-1ZlbU3o8CWT0XvhezKnZ4M_brdsoD1D3eM3S4tUDOg7ZQJBC0db40FTl5ISYqbkbcb2r0YXwJUpDQoJ_hiSZpfozu9nvBxB17uWy16aiMBWdQhg4O7dNTPQbiJekW_C9id82nok0ywoYznA2HNb-j2ucPsZrQ1_4g?sig=gdWz6aAhb2rAUEwIpMUBYDmLxS9k4uwMVB2PEX2EKtY',
+      primary: 'https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/',
       mirror: 'https://example.com/mirror/ghost-circuit'
     },
     fileSize: ' 59.3 GB',
