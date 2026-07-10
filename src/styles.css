@@ -926,7 +926,9 @@ select option {
   min-height: 560px;
   border-radius: var(--radius-xl);
   overflow: hidden;
+  border: 1.8px solid #1d2235;
   box-shadow: var(--shadow-lg);
+  box-shadow: 0 3px 8px #111827;
 }
 
 .slider-slide {

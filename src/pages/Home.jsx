@@ -196,13 +196,13 @@ function Home() {
       <section className="section-grid">
         <div className="featured-row-home">
           <div className="section-row-header">
-            <h2>Our Games 🎮</h2>
+            <h2>↬ Our Games</h2>
             <Link to="/games" className="see-more-btn">
-              See More Games <span>→</span>
+              See More Games <span>↪</span>
             </Link>
           </div>
           <div className="game-grid">
-            {games.slice(0, 6).map((game) => <GameCard key={game.id} game={game} />)}
+            {games.slice(0, 12).map((game) => <GameCard key={game.id} game={game} />)}
           </div>
         </div>
         <div className="categories-row-home">
