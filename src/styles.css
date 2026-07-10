@@ -336,6 +336,7 @@ main {
   display: flex;
   gap: var(--space-sm);
   flex-wrap: wrap;
+  
 }
 
 .nav-link {
@@ -1107,7 +1108,7 @@ select option {
   width: 52px;
   height: 52px;
   border-radius: 50%;
-  background: rgba(10, 14, 26, 0.85);
+  background: rgba(39, 50, 82, 0.85);
   border: 1px solid var(--border-medium);
   color: var(--text);
   font-size: 1.2rem;

@@ -65,7 +65,7 @@ function NavBar() {
       {/* Brand */}
       <div className="brand-block">
         <Link to="/" className="brand-logo">
-          NOVA <span>GAMES</span>
+        NOVA <span>GAMES</span>
         </Link>
         <p>Download Games for PC and Mobile</p>
       </div>
