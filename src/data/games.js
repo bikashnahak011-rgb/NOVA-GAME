@@ -19,7 +19,7 @@ export const games = [
       'https://ankergames.net/uploads/screenshots/04-2026/invincible-vs-screenshot-3_yLSLpI_1777570775.webp',
       'https://ankergames.net/uploads/screenshots/04-2026/invincible-vs-screenshot-2_E6F5J5_1777570775.webp'
     ],
-    description: 'Invincible VS is a brutal superhero 3v3 tag fighting game set in the Invincible universe, where you can battle to the death as a team of fan-favorite characters in iconic locations. Unleash bone-breaking combos through fast combat and smart defensive tactics to leave a trail of blood and destruction.',
+    description: 'Invincible VS is a brutal superhero 3v3 tag fighting game set in the Invincible universe, where you can battle to the death as a team of fan-favorite characters in iconic locations.',
     features: ['Open world stakeouts', 'Advanced cyber weapons', 'Live boss encounters', 'Dynamic progression systems'],
     installationGuide: ['Download the installer', 'Run setup as administrator', 'Choose a destination folder', 'Launch from desktop shortcut'],
     notices: 'Best experience on a current-generation GPU with updated drivers.',
@@ -53,7 +53,7 @@ export const games = [
       'https://ankergames.net/uploads/screenshots/05-2026/stellar-blade-screenshot-3_kUoX3W_1778276439.webp',
       'https://ankergames.net/uploads/screenshots/05-2026/stellar-blade-screenshot-4_0UsZca_1778276439.webp'
     ],
-    description: 'an awe-inspiring post-apocalyptic world The future of humanity is balanced on the edge of a blade. Ravaged by strange, powerful creatures, Earth has been abandoned, and what is left of the decimated human race has fled to a Colony in outer space.',
+    description: 'an awe-inspiring post-apocalyptic world The future of humanity is balanced on the edge of a blade. Ravaged by strange, powerful creatures, Earth has been abandoned.',
     features: ['Response-driven handling', 'Custom vehicle upgrades', 'Night city tracks', 'League tournaments'],
     installationGuide: ['Click the download link', 'Run the installer', 'Apply recommended settings', 'Launch and verify online mode'],
     notices: 'Online play works best on low latency connections.',
@@ -87,7 +87,7 @@ export const games = [
       'https://i.pinimg.com/1200x/33/4f/e0/334fe06b7f26388e986d69bd3f5f0a1f.jpg',
       'https://i.pinimg.com/1200x/e6/d3/07/e6d307c254b719d047e8f4e1eaf52b82.jpg'
     ],
-    description: 'Earth is dying and humanity is running out of time. 12 light years from home, Tau Ceti f offers a small sliver of hope. When the colony ship Cassiopeia crash lands on the planet, its crew soon realize they are far from being alone. In space, death takes many forms.',
+    description: 'Earth is dying and humanity is running out of time. 12 light years from home, Tau Ceti f offers a small sliver of hope. When the colony ship Cassiopeia crash lands on the planet.',
     features: ['Skill tree progression', 'Touch optimized combat', 'Co-op raids', 'Floating world exploration'],
     installationGuide: ['Use the Android installer', 'Enable unknown sources', 'Install the APK', 'Launch and accept permissions'],
     notices: 'Recommended for Android 11+ devices.',
